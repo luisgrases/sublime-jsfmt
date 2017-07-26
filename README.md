@@ -96,7 +96,7 @@ If you want to trigger the formatting on a keyboard shortcut you will need to:
 - Go to Preferences -> Key Bindings - User
 - Insert the configuration to call the `format_javascript` command
 ```js
-{ "keys": ["ctrl+q"], "command": "format_javascript" },
+{ "keys": ["ctrl+q"], "command": "js_prettier" },
 ```
 
 ### Formatting rules
